@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 768 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(23.9343,0,0,23.9343,-8733.47,-15684)">
+        <text x="374.589px" y="664.494px" style="font-family:'Lexend-Regular', 'Lexend';font-size:11px;fill:white;">Atl<tspan x="389.109px " y="664.494px ">a</tspan></text>
+    </g>
+    <g transform="matrix(0.254535,0,0,0.272253,-1.89621,18.0458)">
+        <g transform="matrix(1.33333,0,0,1.33333,-155.271,-16.1544)">
+            <path d="M678.449,216.116L198.449,576.116L678.449,336.116L688.096,276.116L678.449,216.116Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1.33333,0,0,1.33333,-155.271,-16.1544)">
+            <path d="M678.449,336.116L738.449,325.211L798.449,336.116L478.986,576.116L678.449,336.116Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1.31814,0,0,1.38405,179.494,95.1166)">
+            <rect x="432.301" y="127.801" width="121.383" height="115.603" style="fill:white;"/>
+        </g>
+    </g>
+</svg>
